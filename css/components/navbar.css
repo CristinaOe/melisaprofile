@@ -2,9 +2,18 @@
   display: flex;
   justify-content: space-between;
   margin-right: 50px;
+  padding: 0px 8px;
+  align-items: center;
+}
+
+h1 {
+
+  font-family: 'Nunito', sans-serif;
+
 }
 
 #navbar-links {
+  background-color: white;
 
   display: flex;
   color: black;
