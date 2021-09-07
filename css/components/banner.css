@@ -1,0 +1,5 @@
+.banner {
+  height: 100vh;
+  background-image: url("../../images/fotoej.png");
+  background-size: cover;
+}
